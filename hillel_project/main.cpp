@@ -6,5 +6,8 @@ int main()
 	system("cls");
 	std::cout << "Something was changed. For test\n";
 
+	std::cout << "Experiment";
+
+
 	return 0;
 }
